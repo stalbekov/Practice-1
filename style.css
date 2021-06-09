@@ -1,0 +1,26 @@
+
+
+ .vkladki {
+     background-color: rgb(230, 230, 230);
+     border: solid black 1px;
+     padding-left: 15px;
+     padding-right: 15px;
+     padding-bottom: 15px;
+     width: 500px;
+     margin: auto;
+ } 
+
+ .delete {
+     border: none;
+     color: brown;
+     margin-left: 480px;
+     margin-top: 5px;
+     background-color: rgb(230, 230, 230);
+     font-size: 20px;
+     font-family: 'Times New Roman', Times, serif;
+     cursor: pointer;
+ }
+
+ .type {
+     margin: 0;
+ }
